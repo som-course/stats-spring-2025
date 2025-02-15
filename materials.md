@@ -6,8 +6,10 @@ permalink: /materials/
 
 ## Suggested Text Book
 
-* [Convex Optimization](https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by [Stephen Boyd](http://www.stanford.edu/~boyd/) and [Lieven Vandenberghe](http://www.ee.ucla.edu/~vandenbe/): a very famous book.
-* [最优化：建模、算法与理论](http://bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf) by 刘浩洋、户将、李勇锋、文再文编著.
+* [All of Statistics](https://www.stat.cmu.edu/~brian/valerie/617-2022/0%20-%20books/2004%20-%20wasserman%20-%20all%20of%20statistics.pdf) by Larry Wasserman
+* [Statistical Inference](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf) by George Casella and Roger Berger
+* [Statistics] by David Freedman, Robert Pisani, Roger Purves and Ani Adhikari. 译：魏宗舒，施锡铨，林举干，李毅，吕乃刚，范正绮。
+* [Veridical Data Science](https://vdsbook.com/) by Bin Yu and Rebecca L. Barter
 
 # R 
 
