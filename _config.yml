@@ -1,14 +1,12 @@
 # Site settings
-course_name: Optimization Theory and Algorithm II
+course_name: Modern Statistics
 course_description: "
-This course is to present the basic theories and algorithms in optimization fields
-for undergraduate students at School of Management, Xi'an Jiaotong University. The
-aim is to give students a thorough understanding of how to constructe algorithms for solving
-optimization problems, and how to develop theories to analyze optimization problems and corresponding algorithms.
+This course is to present the basic concepts and theories in modern statistics
+for undergraduate students at School of Management, Xi'an Jiaotong University.
 "
-course_semester: "Fall 2021"
+course_semester: "Spring 2025"
 
-baseurl: "/opt-fall-2021" # the subpath of your site, e.g. /blog/
+baseurl: "/stats-spring-2025" # the subpath of your site, e.g. /blog/
 url: "http://som-course.github.io/" # the base hostname & protocol for your site
 
 schoolname: "SOM-XJTU"
