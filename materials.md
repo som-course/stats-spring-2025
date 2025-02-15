@@ -8,7 +8,7 @@ permalink: /materials/
 
 * [All of Statistics](https://www.stat.cmu.edu/~brian/valerie/617-2022/0%20-%20books/2004%20-%20wasserman%20-%20all%20of%20statistics.pdf) by Larry Wasserman
 * [Statistical Inference](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf) by George Casella and Roger Berger
-* [Statistics] by David Freedman, Robert Pisani, Roger Purves and Ani Adhikari. 译：魏宗舒，施锡铨，林举干，李毅，吕乃刚，范正绮。
+* [Statistics](https://github.com/hermosayhl/books/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6(%E7%AC%AC2%E7%89%88)%20David%20Freedman.pdf) by David Freedman, Robert Pisani, Roger Purves and Ani Adhikari. 译：魏宗舒，施锡铨，林举干，李毅，吕乃刚，范正绮。
 * [Veridical Data Science](https://vdsbook.com/) by Bin Yu and Rebecca L. Barter
 
 # R 
