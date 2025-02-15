@@ -13,7 +13,7 @@ links:
 ---
 **Suggested Readings:**
 
-- [LaTeX Materials](https://som-course.github.io/opt-spring-2021/materials/)
+- [LaTeX Materials](https://som-course.github.io/stats-spring-2025/materials/)
 - Chapter 1 of AOS
 - Chapter 13-15 of STATS
 
