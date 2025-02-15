@@ -1,22 +1,25 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Spring 2022"
+course_name: Optimization Theory and Algorithm II
+course_description: "
+This course is to present the basic theories and algorithms in optimization fields
+for undergraduate students at School of Management, Xi'an Jiaotong University. The
+aim is to give students a thorough understanding of how to constructe algorithms for solving
+optimization problems, and how to develop theories to analyze optimization problems and corresponding algorithms.
+"
+course_semester: "Fall 2021"
 
-baseurl: "/opt-spring-2022/" # the subpath of your site, e.g. /blog/
+baseurl: "/opt-fall-2021" # the subpath of your site, e.g. /blog/
 url: "http://som-course.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "SOM-XJTU"
+schoolurl: "https://som.xjtu.edu.cn"
+# twitter_username: username
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
-
+    School of Management
+    Xi'an Jiaotong University
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
-# google_analytics: UA-XXXXXXXX-X
+google_analytics: UA-123894317-1
 
 ### Do not change the followings unless you know what you are doing ###
 
