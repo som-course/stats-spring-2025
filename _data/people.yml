@@ -3,16 +3,10 @@ instructors:
     profile_pic: /_images/pp/xiangyu.jpeg
     webpage: http://xiangyuchang.github.io/
 
-  - name: Haishan Ye
-    profile_pic: /_images/pp/hsy.jpeg
-    webpage:
 
 teaching_assistants:
 
-  - name: Junbo Hao
+  - name: Zhihong Liu
     profile_pic: /_images/pp/haojunbo.jpeg
     webpage:
 
-  - name: Zhikai Yang
-    profile_pic: /_images/pp/zhikai.jpeg
-    webpage: http://zhikai.pro
