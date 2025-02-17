@@ -2,7 +2,7 @@
 type: lecture
 date: 2025-02-17T8:00:00+8:00
 title: Lecture 1 Introduction
-tldr: introduction lecture
+tldr: introduction lecture and probability
 thumbnail: /_images/pp/intro.jpeg
 links: 
     - url: /static_files/presentations/Lecture 1.pdf

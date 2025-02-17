@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2025-02-20T8:00:00+8:00
-title: Lecture 2 Probability and Distribution
-tldr: probability & distribution
+title: Lecture 2 Probability and Random Variable
+tldr: probability & random variable
 thumbnail: /_images/pp/probability.jpg
 links: 
     - url: /static_files/Notes/lecture2.pdf
