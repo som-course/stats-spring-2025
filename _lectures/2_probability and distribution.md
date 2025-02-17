@@ -13,6 +13,6 @@ links:
 
 - Chapter 1 of AOS
 - Chapter 2 of AOS
-- [Intro to Probability of Stat 20](https://stat20.berkeley.edu/spring-2025/3-generalization/01-prob-foundations/notes.html)
+- [Intro to Probability of Stat 20 at UCB](https://stat20.berkeley.edu/spring-2025/3-generalization/01-prob-foundations/notes.html)
 
 
