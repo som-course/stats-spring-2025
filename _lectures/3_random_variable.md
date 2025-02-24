@@ -13,5 +13,7 @@ links:
 
 - Chapter 2 of AOS
 - [Intro to Random Variable of Stat 20 at UCB](https://www.stat20.org/3-probability/04-random-variables/notes)
+- [正态分布的前世今生（上）](https://cosx.org/2013/01/story-of-normal-distribution-1/)
+- [正态分布的前世今生（下）](https://cosx.org/2013/01/story-of-normal-distribution-2/)
 
 
