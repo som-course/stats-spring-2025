@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-02-27T8:00:00+8:00
-title: Lecture 4 Expectation
+title: Lecture 4 Expectation I
 tldr: expectation
 thumbnail: /_images/pp/expectation.png
 links: 
