@@ -12,5 +12,6 @@ links:
 **Suggested Readings:**
 
 - Chapter 6 of AOS
-
+- [Intro to Confidence Interval of Stat20 at UCB](https://stat20.berkeley.edu/fall-2024/3-generalization/08-confidence-intervals/notes.html)
+- [Intro to Hypothesis Test of Stat20 at UCB](https://stat20.berkeley.edu/fall-2024/3-generalization/10-hypothesis-tests/notes.html)
 
