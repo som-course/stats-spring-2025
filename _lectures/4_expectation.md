@@ -12,6 +12,9 @@ links:
 **Suggested Readings:**
 
 - Chapter 3 of AOS
+
 - [Intro to Expected Value and Variance of Stat 20 at UCB](https://stat20.berkeley.edu/fall-2024/3-generalization/05-ev-se/notes.html)
+
+- Chapter 4, 8, 9 of STAT
 
 
