@@ -3,7 +3,7 @@ type: lecture
 date: 2025-03-27T8:00:00+8:00
 title: Lecture 10 Multiple Linear Regression
 tldr: SLP
-thumbnail: /_images/pp/mlp.png
+thumbnail: /_images/pp/mlr.png
 links: 
     - url: /static_files/Notes/lecture11.pdf
       name: notes
