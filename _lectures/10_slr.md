@@ -14,3 +14,5 @@ links:
 - Chapter 13 of AOS
 
 - [Intro to Linear Regression of Stat20 at UCB](https://stat20.berkeley.edu/fall-2024/2-summarizing-data/06-multiple-linear-regression/notes.html)
+
+- Chater 10-12 of STAT
