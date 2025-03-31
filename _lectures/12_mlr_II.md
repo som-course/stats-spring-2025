@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-27T8:00:00+8:00
+date: 2025-03-30T8:00:00+8:00
 title: Lecture 12 Multiple Linear Regression II
 tldr: MLP, Logistic Regression
 thumbnail: /_images/pp/mlr.png
