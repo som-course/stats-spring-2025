@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-04-03T8:00:00+8:00
-title: Lecture 13 Nonparametric Inference
+title: Lecture 13 Nonparametric Inference I
 tldr: empirical distribution, histogram, kernel density estimation
 thumbnail: /_images/pp/ni.jpg
 links: 
