@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-03-27T8:00:00+8:00
-title: Lecture 11 Multiple Linear Regression
+title: Lecture 11 Multiple Linear Regression I
 tldr: MLP
 thumbnail: /_images/pp/mlr.png
 links: 
